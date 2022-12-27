@@ -1,5 +1,13 @@
 Analy**sthenics** github's page
 
+The [Oxford English Dictionary](https://en.wikipedia.org/wiki/Calisthenics) describes callisthenics as **gymnastic exercises to achieve fitness and grace of movement**.
+
+<h5>With analy<b>sthenics</b>, we seek to numerically analyze calisthenics, gymnastics, and climbing movements.</h5>
+
+Through **this analysis**, we aim to better understand how to apply forces to perform movements.<br>
+Using **multiple analysis** from multiple athletes, one could hope to know whether or not an athlete is able to exert the forces necessary to perform a movement.<br>
+If the athlete is deemed able to perform the desired movement, our purpose is to build a personalized **training program** to help them with technical cues and specific progression to gain **body awareness**.<br>
+If the athlete is not strong enough yet for the desired movement, our purpose is to use analyzed data to compute a personalized **training program**.
 
 
 <p align="center">
